@@ -24,3 +24,8 @@ I learnt a lot about servers and how programs worked throughout my time at Chast
 This is where I began to take a real interest in software and how things worked between application and database.
 
 ## Education
+
+**Bexleyheath School/Academy**
+_Year 7 - 11_
+
+ - I have basic GCSE's in English, Maths, Science, IT, Music, Drama
